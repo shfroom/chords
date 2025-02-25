@@ -1,3 +1,5 @@
+FOR SILLICON MACS ONLY
+
 Search Paths
 ============
 1. Go to Targets/build settings and search for 'Search Paths'
